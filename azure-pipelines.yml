@@ -17,15 +17,15 @@ steps:
 
 - script: 
     npm install -g @angular/cli
-  displayName: 'npm install angular'
+  displayName: 'npm Install Angular'
 
 - script:
 - task: Npm@1
   inputs:
     command: 'install'
     workingDir: 'APM-Start'
-  displayName: 'install dependencies'
+  displayName: 'Install Dependencies'
 
 - script: 
     ng build
-  displayName: 'build app'
+  displayName: 'Build App'
