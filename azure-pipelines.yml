@@ -17,8 +17,8 @@ steps:
 
 - script: 
     npm install -g @angular/cli
-    workingDirectory: 'APM-Start'
-    displayName: 'npm Install Angular'
+  workingDirectory: 'APM-Start'
+  displayName: 'npm Install Angular'
 
 - script:
 - task: Npm@1
@@ -29,5 +29,5 @@ steps:
 
 - script: 
     ng build
-    workingDirectory: 'APM-Start'
-    displayName: 'Build App'
+  workingDirectory: 'APM-Start'
+  displayName: 'Build App'
