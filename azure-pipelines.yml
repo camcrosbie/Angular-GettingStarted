@@ -16,12 +16,8 @@ steps:
   displayName: 'Install Node.js'
 
 - script: 
-- task: Npm@1
-  inputs:
-      command: 'install -g @angular/cli'
-      workingDir: 'APM-Start'
-  # npm install -g @angular/cli
-  # workingDirectory: 'APM-Start'
+    npm install -g @angular/cli
+  workingDirectory: 'APM-Start'
   displayName: 'Install Angular'
 
 - script:
