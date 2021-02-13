@@ -15,8 +15,14 @@ steps:
     versionSpec: '15.x'
   displayName: 'Install Node.js'
 
-- script: |
+- script: 
     npm install -g @angular/cli
-#   npm install
-#   ng build --prod
   displayName: 'npm install angular'
+
+- script:
+- task: Npm@1
+  inputs:
+    command: 'install'
+    workingDir: 'apm-start'
+  displayName: 'install dependencies'
+
