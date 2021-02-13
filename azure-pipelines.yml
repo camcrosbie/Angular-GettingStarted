@@ -31,3 +31,9 @@ steps:
     ng build
   workingDirectory: 'APM-Start'
   displayName: 'Build App'
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'Walleye-Build'
+    publishLocation: 'Container'
