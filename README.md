@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/camcrosbie/Angular-GettingStarted/_apis/build/status/camcrosbie.Angular-GettingStarted?branchName=main)](https://dev.azure.com/camcrosbie/Angular-GettingStarted/_build/latest?definitionId=13&branchName=main)
 # Angular-Getting Started
 Materials for the ["Angular: Getting Started"](http://bit.ly/Angular-GettingStarted) course on Pluralsight.
 
