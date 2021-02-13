@@ -31,5 +31,5 @@
   "workbench.iconTheme": "vscode-icons",
   "rainbowTags.allowEverywhere": true,
   "emmet.triggerExpansionOnTab": true,
-  "javascript.implicitProjectConfig.checkJs": true
+  "js/ts.implicitProjectConfig.checkJs": true
 }
