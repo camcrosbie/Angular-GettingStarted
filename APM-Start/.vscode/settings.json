@@ -32,7 +32,7 @@
   "rainbowTags.allowEverywhere": true,
   "emmet.triggerExpansionOnTab": true,
   "js/ts.implicitProjectConfig.checkJs": true,
-  "staticWebApps.appSubpath": "/APM-Start",
+  "staticWebApps.appSubpath": "/apm-start",
   "staticWebApps.apiSubpath": "",
   "staticWebApps.outputSubpath": "dist/apm-start"
 }
