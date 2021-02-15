@@ -1,9 +1,12 @@
+# Azure Static Web Apps CI/CD Status
+
 ![Azure Static Web Apps CI/CD](https://github.com/camcrosbie/Angular-GettingStarted/workflows/Azure%20Static%20Web%20Apps%20CI/CD/badge.svg?branch=main)
 
-# Azure Devops Tip
+## Azure Devops Tip
+
 Use AB#(ID) to link to an Azue Boards work item.
 
-# APM
+## APM
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
 
