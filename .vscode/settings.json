@@ -27,7 +27,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": true
   },
-  "workbench.colorTheme": "Monokai Vibrant",
+  "workbench.colorTheme": "Winter is Coming (Dark Blue)",
   "workbench.iconTheme": "vscode-icons",
   "rainbowTags.allowEverywhere": true,
   "emmet.triggerExpansionOnTab": true,
