@@ -1,5 +1,3 @@
-# Build Status
-
 [![Build Status](https://dev.azure.com/camcrosbie/Angular-GettingStarted/_apis/build/status/camcrosbie.Angular-GettingStarted?branchName=main)](https://dev.azure.com/camcrosbie/Angular-GettingStarted/_build/latest?definitionId=13&branchName=main)
 
 ## Angular-Getting Started

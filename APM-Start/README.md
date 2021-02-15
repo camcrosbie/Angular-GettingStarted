@@ -1,5 +1,3 @@
-# Azure Static Web Apps CI/CD Status
-
 ![Azure Static Web Apps CI/CD](https://github.com/camcrosbie/Angular-GettingStarted/workflows/Azure%20Static%20Web%20Apps%20CI/CD/badge.svg?branch=main)
 
 ## Azure Devops Tip
