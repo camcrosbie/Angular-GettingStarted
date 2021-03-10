@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { SnotifyService } from 'ng-snotify';
 
 @Component({
   selector: 'walleye-root',
@@ -6,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   pageTitle: string = 'The Great Walleye Store';
+  constructor(private snotifyService: SnotifyService) {}
 }
+
+
