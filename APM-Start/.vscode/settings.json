@@ -28,7 +28,7 @@
     "editor.formatOnSave": true
   },
   "workbench.colorTheme": "Winter is Coming (Dark Blue)",
-  "workbench.iconTheme": "vscode-icons",
+  "workbench.iconTheme": "material-icon-theme",
   "rainbowTags.allowEverywhere": true,
   "emmet.triggerExpansionOnTab": true,
   "js/ts.implicitProjectConfig.checkJs": true,
