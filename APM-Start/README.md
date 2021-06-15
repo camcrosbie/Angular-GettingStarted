@@ -6,7 +6,7 @@ Use AB#(ID) to link to an Azue Boards work item.
 
 ## APM
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3; since upgraded to 11.2.13
 
 ## Development server
 
